@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755970111413",
+    "project_id": "srisafitri-firestore",
+    "storage_bucket": "srisafitri-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755970111413:android:928636fb01a1cd8faf0bfc",
+        "android_client_info": {
+          "package_name": "com.f55119098.srisafitrifirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755970111413-2jjsq39jjqc28jbv5583l9cf8rbm0do2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvrDWmtsVdognwfBlDte05kihVhTDO6kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755970111413-2jjsq39jjqc28jbv5583l9cf8rbm0do2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
